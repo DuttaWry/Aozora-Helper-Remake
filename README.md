@@ -1,5 +1,5 @@
 # Aozora-Helper-Remake
-A module that maximizes CPU and GPU usage for everyday use as well as heavy gaming
+A module that maximizes CPU and GPU usage for  dailyuse and gaming
 
 by [@DuttaWry](https://t.me/DuttaWry)
 
